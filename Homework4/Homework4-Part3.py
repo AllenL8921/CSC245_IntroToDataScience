@@ -1,10 +1,9 @@
+import itertools
 '''
 Part 3: Iterators (12 points)
 Using Built-in Iterators (4 points)
 Use the built-in iter and next functions to iterate over a list of numbers [5, 4, 3, 2, 1] manually.
 '''
-import itertools
-
 
 print("Iterators \n")
 numList = [5,4,3,2,1]
